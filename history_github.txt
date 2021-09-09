@@ -1,0 +1,112 @@
+d:
+cd d:
+pwd
+mkdir group22
+cd group22
+mkdir git_repo
+cd git_repo
+git clone https://github.com/Almukhamat/group_22.git
+ls -al
+open ./
+open /
+explorer.exe
+ssh-key -t rsa -C "olegaolega"
+ssh-keygen -t rsa -C "olegaolega"
+cd ..
+mkdir getssh
+cd /gitssh
+cd gitssh
+cd gitssh/
+ls
+cd getssh/
+git clone git@github.com:Almukhamat/group_22.git
+ls -la
+cd group22
+cd group_22
+ls -la
+git config --global user.name "Oleg Almukhametov"
+git config --global user.name "almukhametovoleg@gmail.com"
+git config --global user.email "almukhametovoleg@gmail.com"
+git config --global user.name
+git config --global user.name "Oleg Almukhametov"
+git config --global user.name
+git config --global user.email
+> the_first.txt
+ls
+vim the_first.txt
+vim the_first.txt
+open ./
+git status
+git add . the_first.txt
+git status
+git commit -m "add the first file"
+git add the_first.txt
+git commit -m "add the first file"
+git status
+git push
+open
+explorer
+man
+.git/logs
+cd .git/logs
+ls
+cd refs
+ls
+cd ..
+cd ..
+cd ..
+history
+history -w Lesson_git.txt
+ls
+cat lesson_git.txt
+ls
+cd /d/group22
+ls
+cd git_repo
+ls
+cd group_22
+
+cd ..
+cd /
+cd d/
+cd group22
+cd git_repo
+cd group22
+cd group_22
+git status
+git config --global user.email
+git config --global user.name
+git add script1.sh
+git add script1.sh
+git add
+git push
+cd ..
+cd ..
+ls
+cd getsssh
+cd getssh
+git push
+cd ..
+cd git_repo
+git push
+ls
+cd group_22
+ls
+
+cd ..
+git clone git@github.com:Almukhamat/group_22.git
+ls
+
+cd group_22
+ls
+git push
+git commit -m "modified code"
+git add . the_first.txt
+ls
+git push
+git status
+git add -A
+ls
+git commit -m "modified code"
+git push
+history -w history_github.txt
