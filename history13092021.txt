@@ -1,0 +1,303 @@
+d:
+cd d:
+pwd
+mkdir group22
+cd group22
+mkdir git_repo
+cd git_repo
+git clone https://github.com/Almukhamat/group_22.git
+ls -al
+open ./
+open /
+explorer.exe
+ssh-key -t rsa -C "olegaolega"
+ssh-keygen -t rsa -C "olegaolega"
+cd ..
+mkdir getssh
+cd /gitssh
+cd gitssh
+cd gitssh/
+ls
+cd getssh/
+git clone git@github.com:Almukhamat/group_22.git
+ls -la
+cd group22
+cd group_22
+ls -la
+git config --global user.name "Oleg Almukhametov"
+git config --global user.name "almukhametovoleg@gmail.com"
+git config --global user.email "almukhametovoleg@gmail.com"
+git config --global user.name
+git config --global user.name "Oleg Almukhametov"
+git config --global user.name
+git config --global user.email
+> the_first.txt
+ls
+vim the_first.txt
+vim the_first.txt
+open ./
+git status
+git add . the_first.txt
+git status
+git commit -m "add the first file"
+git add the_first.txt
+git commit -m "add the first file"
+git status
+git push
+open
+explorer
+man
+.git/logs
+cd .git/logs
+ls
+cd refs
+ls
+cd ..
+cd ..
+cd ..
+history
+history -w Lesson_git.txt
+ls
+cat lesson_git.txt
+ls
+cd /d/group22
+ls
+cd git_repo
+ls
+cd group_22
+ls
+cd ./
+ls
+cd ~
+ls
+cd d/
+cd d/
+cd /d
+ls
+mkdir curs22
+cd curs22
+mkdir folder1
+mkdir folder2
+mkdir folder3
+cd folder1
+> textfile1.txt
+> textfile1=2.txt
+rm textfile1=2.txt
+> textfile2.txt
+> textfile3.txt
+> js1.json
+> js2.json
+ls
+vim textfile1.txt
+cat textfile1.txt
+cd ..
+mv /d/curs22/folder1/textfile2.txt /d/curs22/folder2
+mv /d/curs22/folder1/textfile3.txt /d/curs22/folder2
+cp /d/curs22/folder1/js1.json /d/curs22/folder3
+cp /d/curs22/folder1/js2.json /d/curs22/folder3
+find ./ -type f -name js1.json
+cd folder1
+ls
+cat textfile1.txt | grep end
+head -n 2 textfile1.txt
+tail -n 2 textfile1.txt
+cd ..
+cd folder2
+ls
+vim textfile2.txt
+less textfile2.txt
+date
+history -w /d/curs22/homework1.txt
+cd ..
+script.sh
+vim script.sh
+vim script.sh
+script.sh
+./script.sh
+vim script.sh
+./script.sh
+cp /d/curs22 /d/curs22_copy
+cp /d/curs22 -r /d/curs22_copy
+cd ..
+ls
+cd /curs22_copy
+cd curs22_copy
+ls
+rm /d/curs22
+rmdir /d/curs22
+rmdir -r /d/curs22
+cd ..
+rmdir /curs22
+rmdir curs22
+rmdir -r curs22
+rmdir --help
+rm -r curs22
+cd curs22_copy
+ls
+./script.sh
+cd ..
+ls
+cd curs22
+ls
+cd folder1
+ls
+curl "http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000"
+cd ..
+cd /
+cd d/
+cd group22
+cd git_repo
+cd group22
+cd group_22
+git status
+git config --global user.email
+git config --global user.name
+git add script1.sh
+git add script1.sh
+git add
+git push
+cd ..
+cd ..
+ls
+cd getsssh
+cd getssh
+git push
+cd ..
+cd git_repo
+git push
+ls
+cd group_22
+ls
+ls
+git push
+git push
+git pull
+git push
+git pull
+git push
+git status
+git commit
+git push
+git status
+git pull
+git push
+git status
+git add the_first.txt
+git push
+git status
+git push
+cd ..
+git clone git@github.com:Almukhamat/group_22.git
+ls
+cd group22
+cd group22/
+cd group_22
+ls
+git push
+git commit -m "modified code"
+git add . the_first.txt
+ls
+git push
+git status
+git add -A
+ls
+git commit -m "modified code"
+git push
+history -w history_github.txt
+python --version
+cd /d
+ls
+cd Pythonfolder
+ls
+python3 main.py
+python main.py
+git status
+cd group22
+cd ..
+ls
+cd curs22
+cd group22
+cd ..
+cd group22
+ls
+cd git_repo
+cd group_22
+git status
+git add
+git add .
+git branch 
+git checkout -b first_branch
+git branch 
+explorer
+> 22.txt
+git status
+git add .
+git status
+git commit -m "22.txt"
+git status
+git checkout main
+git checkout first_branch
+git checkout main
+git merge first_branch 
+git checkout first_branch
+vim 22.txt
+git commit -a -m "add the first line"
+git checkout main
+vim 22.txt
+git commit -a -m "add the confilct line"
+git merge first_branch
+vim 22.txt
+git commit -a -m "resolve conflict"
+git push -u origin first_branch
+git checkout -b third_branch
+> 33.txt
+git add 33.txt
+git commit -m "add 33.txt"
+git push -u origin third_branch
+git log
+git log
+git checkout
+git checkout main
+ls
+cd d/
+cd /d
+ls
+cd group22
+ls
+cd git_repo
+ls
+cd group_22
+git checkout main
+git checkout -b Postman
+git checkout main
+git checkout Jmeter
+git checkout -b Jmeter
+git checkout main
+git checkout -b CheckLists
+git checkout main
+git checkout -b Bug Reports
+git checkout -b Bug_Reports
+git checkout main
+git checkout -b SQL
+git checkout main
+git checkout -b Charles
+git checkout main
+git checkout -b Mobile_Testing
+git checkout main
+git push .
+git push origin Postman
+git push origin Jmeter
+git push origin CheckLists
+git push origin Bug_Reports
+git push origin SQL
+git push origin Charles
+git push origin Mobile_Testing
+git checkout Bug_Reports
+vim bugreport1.txt
+ls
+git push add .
+git push . add
+git push add
+git pull
+git push add .
+history -w history13092021.txt

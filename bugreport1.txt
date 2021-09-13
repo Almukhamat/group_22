@@ -1,0 +1,14 @@
+1)Summary
+2)Project
+3)Component
+4)Version
+5)Severity
+6)Priority
+7)Status
+8)Author
+9)Assign TO
+10)Environment
+11)Steps To Reproduce
+12)Fact Result
+13)Actual Result
+14)Attachment
